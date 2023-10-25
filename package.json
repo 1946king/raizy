@@ -1,0 +1,14 @@
+{
+  "name": "xp_bot",
+  "version": "1.0.0",
+  "description": "Eldred - Xp",
+  "main": "./src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ELDRED STORE",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js-selfbot-v13": "^2.14.8"
+  }
+}
